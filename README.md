@@ -1,3 +1,6 @@
+# DEPRECATED
+**This repository has been moved to [XanaduAI/pennylane-qulacs](https://github.com/XanaduAI/pennylane-qulacs).**
+
 # PennyLane Qulacs Plugin
 [PennyLane](https://pennylane.readthedocs.io) is a cross-platform Python
 library for quantum machine learning, automatic differentiation, and
